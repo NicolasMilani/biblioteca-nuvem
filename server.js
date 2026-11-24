@@ -16,7 +16,7 @@ li { margin: 8px 0; }
 <header><h1>${nome}</h1><p>Projeto de Computação em Nuvem II</p></header>
 <main><h2>Livros em destaque</h2>
 <ul><li>Introdução à Programação</li><li>Redes de Computadores</li>
-<li>Segurança na Internet</li></ul>
+<li>Segurança na Internet</li><li>Banco de Dados na Prática</li></ul>
 <h2>Contato</h2><p>Atendimento: segunda a sexta-feira.</p></main>
 </body></html>`);
 }).listen(port, () => console.log(`Servidor ativo na porta ${port}`));
